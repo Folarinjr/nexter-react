@@ -10,11 +10,11 @@ const Footer = () => {
                     <li className="footer__nav--item"><a href="!" className="footer__link">download home planner</a></li>
                     <li className="footer__nav--item"><a href="!" className="footer__link">contact us</a></li>
                     <li className="footer__nav--item"><a href="!" className="footer__link">Submit your property</a></li>
-                    <li className="footer__nav--item"><a href="!" className="footer__link">come work with us!</a></li>
+                    <li className="footer__nav--item"><a href="" className="footer__link">come work with us!</a></li>
                 </ul>
             </nav>
             <p className="footer__text">
-                &copy; Copyright 2022 by Jonas Schmedtmann and Junior Folarin.Feel free to use this project for your purposes. This does NOT apply if you plan to produce your own course or tutorials based on this project.
+                &copy; Copyright 2022 by JUNIOR FOLARIN and author Jonas Schmedtmann.Built on React Js and using Sass as the css preprocessor.
             </p>
     </footer>
   )
