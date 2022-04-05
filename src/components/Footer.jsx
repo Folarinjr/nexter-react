@@ -10,7 +10,7 @@ const Footer = () => {
                     <li className="footer__nav--item"><a href="!" className="footer__link">download home planner</a></li>
                     <li className="footer__nav--item"><a href="!" className="footer__link">contact us</a></li>
                     <li className="footer__nav--item"><a href="!" className="footer__link">Submit your property</a></li>
-                    <li className="footer__nav--item"><a href="" className="footer__link">come work with us!</a></li>
+                    <li className="footer__nav--item"><a href="!" className="footer__link">come work with us!</a></li>
                 </ul>
             </nav>
             <p className="footer__text">
